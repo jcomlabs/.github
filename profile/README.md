@@ -14,7 +14,11 @@ performance claims, and honest documentation of limitations.
   boundaries.
 - **[Window Swap](https://github.com/jcomlabs/window-swap)** — remove a small
   but persistent friction point from snapped-window workflows on Windows.
+- **[MoE Autopilot Studio](https://github.com/jcomlabs/moe-autopilot-studio)** —
+  a Windows-first evidence lab for measured MoE placement decisions, published
+  as the reproducible companion to the broader MoE Autopilot research line.
 
-Code Hangar and MoE Autopilot are being prepared for public release.
+Code Hangar and the core MoE Autopilot research repository are being prepared
+for public release.
 
 JCOM Labs is maintained by [JC-OM](https://github.com/JigSawPT) in Portugal.
