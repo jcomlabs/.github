@@ -7,17 +7,14 @@ We care about systems that people can inspect, reproduce, and control. That mean
 clear trust boundaries, deterministic tests around AI behavior, evidence-backed
 performance claims, and honest documentation of limitations.
 
-## Projects
+## Public projects
 
-Our first public releases are being prepared now:
+- **[Axiomux](https://github.com/jcomlabs/axiomux)** — run one agent across
+  providers, skills, governed memory, fusion strategies, and safe computer-use
+  boundaries.
+- **[Window Swap](https://github.com/jcomlabs/window-swap)** — remove a small
+  but persistent friction point from snapped-window workflows on Windows.
 
-- **Code Hangar** — recover and reuse project knowledge from fragmented AI
-  coding sessions.
-- **Axiomux** — run one agent across providers, skills, memory, fusion
-  strategies, and safe computer-use boundaries.
-- **MoE Autopilot** — adapt hot/cold MoE expert placement to consumer GPU
-  constraints.
-- **Window Swap** — remove a small but persistent friction point from
-  snapped-window workflows on Windows.
+Code Hangar and MoE Autopilot are being prepared for public release.
 
 JCOM Labs is maintained by [JC-OM](https://github.com/JigSawPT) in Portugal.
